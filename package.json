@@ -1,0 +1,50 @@
+{
+  "name": "indice-automatico-18-10-a-indice",
+  "version": "1.0.0",
+  "description": "Indice-Automatico-18-10-a (Indice)",
+  "author": "Maikon",
+  "private": true,
+  "main": "electron/main.cjs",
+  "portaDoPrograma": 7758,
+  "devDependencies": {
+    "electron": "33.2.1",
+    "electron-builder": "25.1.8"
+  },
+  "build": {
+    "appId": "com.maikonadvogadomgalt.indiceautomatico1810a.nindice.pc",
+    "productName": "Indice-Automatico-18-10-a (Indice)",
+    "executableName": "indice-automatico-18-10-a-indice",
+    "directories": {
+      "output": "release"
+    },
+    "asar": false,
+    "files": [
+      "**/*",
+      "!android/**",
+      "!.github/**",
+      "!release/**",
+      "!node_modules/.cache/**",
+      "!*.zip",
+      "!.sk/**",
+      "!apk.config.json"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "icons/icon-512.png"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Indice-Automatico-18-10-a (Indice)",
+      "artifactName": "indice-automatico-18-10-a-indice-Instalar.exe"
+    },
+    "portable": {
+      "artifactName": "indice-automatico-18-10-a-indice-sem-instalar.exe"
+    }
+  }
+}
