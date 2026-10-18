@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Instalador · Juntar (pedaços → HTML único)</title>
+<style>
+body{font:18px/1.6 system-ui,Segoe UI,Roboto,sans-serif;background:#f4f2ea;color:#1f2230;margin:0;padding:20px 16px 60px}
+main{max-width:720px;margin:0 auto}
+h1{font-size:28px;line-height:1.2;margin:0 0 6px}
+.mut{color:#5f6372}
+.bt{display:block;width:100%;font:700 20px system-ui,sans-serif;padding:18px;border:0;border-radius:12px;background:#2f7a55;color:#fff;cursor:pointer;margin:18px 0 8px}
+.bt2{background:#fff;color:#1f2230;border:2px solid #1f2230;font-size:17px;padding:12px}
+.caixa{background:#fff;border:1px solid #ddd8c4;border-left:6px solid #8a7b45;border-radius:10px;padding:12px 14px;margin:14px 0}
+ol li{margin:8px 0}
+#st{font-weight:700;min-height:1.6em}
+</style>
+</head>
+<body>
+<main>
+<h1>📦 Juntar (pedaços → HTML único)</h1>
+<p class="mut">Esta página já traz o projeto inteiro guardado dentro dela (3 KB). Não precisa de internet para salvar.</p>
+<button class="bt" id="baixar">⬇ Salvar o arquivo juntar.py</button>
+<button class="bt bt2" id="compartilhar" hidden>📤 Enviar (Drive, WhatsApp, e-mail…)</button>
+<p id="st" aria-live="polite"></p>
+<div class="caixa"><b>Manual de instrução</b><ol><li>Toque no botão verde para salvar o juntar.py.</li><li>No Termux: <code>cp ~/storage/downloads/juntar.py ~/</code></li><li>Depois: <code>python ~/juntar.py ~/storage/downloads/NOME-DA-PASTA</code></li></ol></div>
+<div class="caixa"><b>Se o botão não salvar</b><ul>
+<li>Abra esta página no <b>computador</b>, com dois cliques (abre no Chrome ou Edge), e toque no botão de novo.</li>
+<li>Se o Chrome perguntar, escolha <b>Manter</b>.</li>
+<li>Guarde também ESTA página num pen drive: enquanto você tiver ela, tem o projeto.</li></ul></div>
+</main>
+<script id="dados" type="text/plain">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCkpVTlRBUiDigJQgdHJhbnNmb3JtYSB1bSBwcm9qZXRvICJlbSBwZWRhw6dvcyIgKGluZGV4Lmh0bWwgKyBwYXN0YSBjc3MgKyBwYXN0YSBqcykKbnVtIEFSUVVJVk8gSFRNTCDDmk5JQ08sIHF1ZSBhYnJlIHNvemluaG8gZW0gcXVhbHF1ZXIgbHVnYXIuCgpDb21vIHVzYXIgKG5vIGNvbXB1dGFkb3Igb3Ugbm8gVGVybXV4KToKICAgIHB5dGhvbiBqdW50YXIucHkgIFBBU1RBLURPLVBST0pFVE8KRXhlbXBsbzoKICAgIHB5dGhvbiBqdW50YXIucHkgIExhYm9yYXRvcmlvClNhaSBvIGFycXVpdm8gIExhYm9yYXRvcmlvLVVOSUNPLmh0bWwgIGFvIGxhZG8gZGEgcGFzdGEuIEEgcGFzdGEgb3JpZ2luYWwgbsOjbyBtdWRhLgoiIiIKaW1wb3J0IG9zLCByZSwgc3lzLCBiYXNlNjQsIG1pbWV0eXBlcwoKZGVmIGp1bnRhcihwYXN0YSk6CiAgICBwYXN0YSA9IG9zLnBhdGguYWJzcGF0aChwYXN0YSkKICAgIGluZGV4ID0gb3MucGF0aC5qb2luKHBhc3RhLCAnaW5kZXguaHRtbCcpCiAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUoaW5kZXgpOgogICAgICAgIHN5cy5leGl0KCfinYwgTsOjbyBhY2hlaSBvIGluZGV4Lmh0bWwgZGVudHJvIGRlOiAnICsgcGFzdGEpCiAgICBodG1sID0gb3BlbihpbmRleCwgZW5jb2Rpbmc9J3V0Zi04JykucmVhZCgpCiAgICB1c2Fkb3MsIGZhbHRhbmRvID0gW10sIFtdCgogICAgZGVmIGxlcihyZWwpOgogICAgICAgIGlmIHJlLm1hdGNoKHInXihodHRwcz86KT8vLycsIHJlbCkgb3IgcmVsLnN0YXJ0c3dpdGgoJ2RhdGE6Jyk6IHJldHVybiBOb25lICAgIyBkYSBpbnRlcm5ldDogZGVpeGEgY29tbyBlc3TDoQogICAgICAgIGNhbWluaG8gPSBvcy5wYXRoLm5vcm1wYXRoKG9zLnBhdGguam9pbihwYXN0YSwgcmVsLnNwbGl0KCc/JylbMF0uc3BsaXQoJyMnKVswXSkpCiAgICAgICAgaWYgbm90IGNhbWluaG8uc3RhcnRzd2l0aChwYXN0YSkgb3Igbm90IG9zLnBhdGguaXNmaWxlKGNhbWluaG8pOgogICAgICAgICAgICBmYWx0YW5kby5hcHBlbmQocmVsKTsgcmV0dXJuIE5vbmUKICAgICAgICB1c2Fkb3MuYXBwZW5kKHJlbCk7IHJldHVybiBjYW1pbmhvCgogICAgIyAxKSBjYWRhICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImNzcy94LmNzcyI+ICB2aXJhICA8c3R5bGU+IChvIGNvbnRlw7pkbykgPC9zdHlsZT4KICAgIGRlZiBjc3MobSk6CiAgICAgICAgaHJlZiA9IHJlLnNlYXJjaChyJ2hyZWZccyo9XHMqWyJcJ10oW14iXCddKyknLCBtLmdyb3VwKDApKQogICAgICAgIGMgPSBocmVmIGFuZCBsZXIoaHJlZi5ncm91cCgxKSkKICAgICAgICBpZiBub3QgYzogcmV0dXJuIG0uZ3JvdXAoMCkKICAgICAgICByZXR1cm4gJzxzdHlsZT4vKiAnICsgaHJlZi5ncm91cCgxKSArICcgKi9cbicgKyBvcGVuKGMsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKSArICdcbjwvc3R5bGU+JwogICAgaHRtbCA9IHJlLnN1YihyJzxsaW5rXGJbXj5dKnJlbFxzKj1ccypbIlwnXT9zdHlsZXNoZWV0W14+XSo+JywgY3NzLCBodG1sLCBmbGFncz1yZS5JKQoKICAgICMgMikgY2FkYSAgPHNjcmlwdCBzcmM9ImpzL3guanMiPjwvc2NyaXB0PiAgdmlyYSAgPHNjcmlwdD4gKG8gY29udGXDumRvKSA8L3NjcmlwdD4KICAgIGRlZiBqcyhtKToKICAgICAgICBhYnJlID0gbS5ncm91cCgxKQogICAgICAgIHNyYyA9IHJlLnNlYXJjaChyJ1xic3JjXHMqPVxzKlsiXCddKFteIlwnXSspJywgYWJyZSkKICAgICAgICBjID0gc3JjIGFuZCBsZXIoc3JjLmdyb3VwKDEpKQogICAgICAgIGlmIG5vdCBjOiByZXR1cm4gbS5ncm91cCgwKQogICAgICAgIHJlc3RvID0gcmUuc3ViKHInXHMqXGJzcmNccyo9XHMqWyJcJ11bXiJcJ10rWyJcJ10nLCAnJywgYWJyZSkKICAgICAgICBjb2RpZ28gPSBvcGVuKGMsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKS5yZXBsYWNlKCc8L3NjcmlwdCcsICc8XFwvc2NyaXB0JykKICAgICAgICByZXR1cm4gcmVzdG8gKyAnXG4vKiAnICsgc3JjLmdyb3VwKDEpICsgJyAqL1xuJyArIGNvZGlnbyArICdcbjwvc2NyaXB0PicKICAgIGh0bWwgPSByZS5zdWIocicoPHNjcmlwdFxiW14+XSpcYnNyY1xzKj1bXj5dKj4pXHMqPC9zY3JpcHQ+JywganMsIGh0bWwsIGZsYWdzPXJlLkkpCgogICAgIyAzKSDDrWNvbmVzIGUgaW1hZ2VucyBwZXF1ZW5hcyAoYXTDqSAzMDAgS0IpIHbDo28gcGFyYSBkZW50cm8gdGFtYsOpbQogICAgZGVmIGltZyhtKToKICAgICAgICByZWwgPSBtLmdyb3VwKDIpOyBjID0gbGVyKHJlbCkgaWYgbm90IHJlbC5zdGFydHN3aXRoKCdkYXRhOicpIGVsc2UgTm9uZQogICAgICAgIGlmIG5vdCBjIG9yIG9zLnBhdGguZ2V0c2l6ZShjKSA+IDMwMCAqIDEwMjQ6IHJldHVybiBtLmdyb3VwKDApCiAgICAgICAgdGlwbyA9IG1pbWV0eXBlcy5ndWVzc190eXBlKGMpWzBdIG9yICdhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW0nCiAgICAgICAgcmV0dXJuIG0uZ3JvdXAoMSkgKyAnZGF0YTonICsgdGlwbyArICc7YmFzZTY0LCcgKyBiYXNlNjQuYjY0ZW5jb2RlKG9wZW4oYywgJ3JiJykucmVhZCgpKS5kZWNvZGUoKSArIG0uZ3JvdXAoMykKICAgIGh0bWwgPSByZS5zdWIocicoPCg/OmltZ3xsaW5rKVxiW14+XSo/KD86c3JjfGhyZWYpXHMqPVxzKlsiXCddKSgoPzppY29uc3xpbWd8aW1hZ2Vuc3xhc3NldHMpL1teIlwnXSspKFsiXCddKScsIGltZywgaHRtbCwgZmxhZ3M9cmUuSSkKCiAgICBzYWlkYSA9IHBhc3RhLnJzdHJpcChvcy5zZXApICsgJy1VTklDTy5odG1sJwogICAgb3BlbihzYWlkYSwgJ3cnLCBlbmNvZGluZz0ndXRmLTgnKS53cml0ZShodG1sKQogICAgcHJpbnQoJ+KchSBQcm9udG86Jywgc2FpZGEpCiAgICBwcmludCgnICAgUGXDp2FzIGNvbG9jYWRhcyBkZW50cm86JywgbGVuKHVzYWRvcykpCiAgICBpZiBmYWx0YW5kbzoKICAgICAgICBwcmludCgn4pqg77iPICBOw6NvIGFjaGVpIGVzdGFzIHBlw6dhcyAoZmljYXJhbSBjb21vIGVzdGF2YW0pOicpCiAgICAgICAgZm9yIGYgaW4gZmFsdGFuZG86IHByaW50KCcgICAgLScsIGYpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgaWYgbGVuKHN5cy5hcmd2KSA8IDI6IHN5cy5leGl0KF9fZG9jX18pCiAgICBqdW50YXIoc3lzLmFyZ3ZbMV0pCg==</script>
+<script>
+(function(){
+  var NOME='juntar.py', TAM=3115, st=document.getElementById('st');
+  function arquivo(){
+    var b=atob(document.getElementById('dados').textContent.trim()), u=new Uint8Array(b.length);
+    for(var i=0;i<b.length;i++)u[i]=b.charCodeAt(i);
+    if(u.length!==TAM)throw new Error('a página veio incompleta ('+u.length+' de '+TAM+' bytes). Baixe a página de novo.');
+    return new Blob([u],{type:'application/octet-stream'});
+  }
+  document.getElementById('baixar').onclick=function(){
+    try{var b=arquivo(),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=NOME;document.body.appendChild(a);a.click();a.remove();
+      st.textContent='✅ Pronto: '+NOME+' foi para a pasta Downloads (conferido: '+TAM+' bytes).';}
+    catch(e){st.textContent='❌ '+e.message;}
+  };
+  var c=document.getElementById('compartilhar');
+  try{ if(navigator.canShare&&navigator.canShare({files:[new File([new Uint8Array(1)],'t.bin',{type:'application/octet-stream'})]})){c.hidden=false;
+    c.onclick=function(){try{navigator.share({files:[new File([arquivo()],NOME,{type:'application/octet-stream'})],title:NOME}).catch(function(){});}catch(e){st.textContent='❌ '+e.message;}};}}catch(e){}
+})();
+</script>
+</body>
+</html>

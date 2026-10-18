@@ -1,0 +1,507 @@
+{
+  "titulo": "Indice-Automatico-18-10-a",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "1.html",
+      "nome": "Instalador · Colador de Links 18/10 (modular, para APK)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "2.html",
+      "nome": "Instalador · Colador de Links 18/10 (modular, para APK)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "3.html",
+      "nome": "Instalador · Índice Automático",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "4.html",
+      "nome": "Instalador · Juntar (pedaços → HTML único)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "5.html",
+      "nome": "Instalador · Assistente Jurídico 17/10-a — Códigos, mais IAs, Drive direto e ferramentas",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "6.html",
+      "nome": "Instalador · Jurídico consertado — para APK e .exe",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "7.html",
+      "nome": "Instalador · Jurídico consertado — para APK e .exe",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "8.html",
+      "nome": "Instalador · Jurídico consertado — para a Netlify",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "9.html",
+      "nome": "Instalador · Organizador do Celular (Termux)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "10.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "11.html",
+      "nome": "Calculadora de Sentença",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "12.html",
+      "nome": "Calculadora de Sentença",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "13.html",
+      "nome": "Cirurgião de Código 4.4",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "14.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "15.html",
+      "nome": "Guia dos Apps do Maikon",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "16.html",
+      "nome": "Instalador · Colador de Links 18/10 (modular, para APK)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "17.html",
+      "nome": "Instalador · Assistente Jurídico 17/10-a — Códigos, mais IAs, Drive direto e ferramentas",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "18.html",
+      "nome": "Instalador · Juntar (pedaços → HTML único)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "19.html",
+      "nome": "Perito de Metadados",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "20.html",
+      "nome": "Preparador Universal",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "21.html",
+      "nome": "Preparador Universal",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "22.html",
+      "nome": "Pacote 17-10-b",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "23.html",
+      "nome": "Preparador Universal",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "24.html",
+      "nome": "Preparador Universal",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "25.html",
+      "nome": "Limpador de Processos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "26.html",
+      "nome": "Kit do Replit",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "27.html",
+      "nome": "Kit do Replit",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "28.html",
+      "nome": "Instalador · Jurídico consertado — para a Netlify",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "29.html",
+      "nome": "Instalador · Jurídico consertado — para APK e .exe",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "30.html",
+      "nome": "Instalador · Organizador do Celular (Termux)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "31.html",
+      "nome": "Laboratório HTML",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "32.html",
+      "nome": "Laboratório do Modular",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "33.html",
+      "nome": "Instalador · Colador de Links 18/10 (modular, para APK)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "34.html",
+      "nome": "Instalador · Índice Automático",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "35.html",
+      "nome": "Instalador · Jurídico consertado — para APK e .exe",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "36.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "37.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "38.html",
+      "nome": "Multi-Projetos PWA — Maikon Caldeira",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "39.html",
+      "nome": "Pacote 17-10-b",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "40.html",
+      "nome": "Laboratório HTML",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "41.html",
+      "nome": "Cirurgião de Código 4.4",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "42.html",
+      "nome": "Calculadora de Sentença",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "43.html",
+      "nome": "Calculadora de Sentença",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "44.html",
+      "nome": "Limpador de Processos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "45.html",
+      "nome": "Perito de Metadados",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "46.html",
+      "nome": "Pacote 17-10-b",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "47.html",
+      "nome": "Kit do Replit",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "48.html",
+      "nome": "Guia dos Apps do Maikon",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "49.html",
+      "nome": "Laboratório do Modular",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "50.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "51.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "52.html",
+      "nome": "Instalador · Colador de Links 18/10 (modular, para APK)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "53.html",
+      "nome": "Instalador · Colador de Links 18/10 (modular, para APK)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "54.html",
+      "nome": "Instalador · Juntar (pedaços → HTML único)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "55.html",
+      "nome": "Instalador · Organizador do Celular (Termux)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "56.html",
+      "nome": "Instalador · Índice Automático",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "57.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "58.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "59.html",
+      "nome": "Instalador · Jurídico consertado — para APK e .exe",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "61.html",
+      "nome": "Instalador · Jurídico consertado — para a Netlify",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "62.html",
+      "nome": "Instalador · Jurídico consertado — para APK e .exe",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "63.html",
+      "nome": "Organizador de Documentos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "64.html",
+      "nome": "Juntador de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "65.html",
+      "nome": "Juntador de Arquivos",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "66.html",
+      "nome": "Cirurgião de Código 4.3",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "67.html",
+      "nome": "Cirurgião de Código 4.4",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "68.html",
+      "nome": "Cirurgião de Código 4.2",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "69.html",
+      "nome": "Cirurgião de Código 4.0",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "70.html",
+      "nome": "Cirurgião de Código 4.1",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "71.html",
+      "nome": "Extrator de Sites",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "Maikon Caldeira — Aplicativos",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
